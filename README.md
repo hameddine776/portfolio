@@ -123,9 +123,7 @@ Le portfolio s'adapte automatiquement à :
 
 Pour toute question ou personnalisation :
 
-- Email : contact@monportfolio.com
+- Email : mbodjihamedineyakhya@gmail.com
 - Localisation : Dakar, Sénégal
 
 ---
-
-**Développé avec ❤️ pour les commerçants de Dakar**
